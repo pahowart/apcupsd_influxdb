@@ -7,4 +7,4 @@ While running, this script will call "apcaccess" and apply regex to extract key 
 
 You can then use Grafana with the influxdb plugin to display the UPS information. 
 
-I have included my Grafana dashboard you can use to get started.
+I have included my Grafana dashboard "UPS Stats.json" to get you started.
