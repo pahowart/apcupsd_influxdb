@@ -7,12 +7,12 @@ from struct import pack
 from influxdb import InfluxDBClient
 
 # put your influx server ip, port number and the name of the database
-server_ip = '192.168.10.13'
+server_ip = 'xxx.xxx.xxx.xxx'
 server_port = 8086
 db_name = 'ups_stats'
 
 # apcupsd server ip, port number
-HOST = ('192.168.10.200') 
+HOST = ('xxx.xxx.xxx.xxx') 
 PORT = 3551
 #PORT = 3493
 
